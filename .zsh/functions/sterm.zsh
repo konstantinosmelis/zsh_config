@@ -1,0 +1,5 @@
+function sterm()
+{
+    sudo terminator
+}
+ 
